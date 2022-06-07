@@ -1,2 +1,2 @@
 # simple_resume
-This simple resumey is written in CSS flexbox 
+This simple resume is written in CSS flexbox 
